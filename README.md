@@ -8,7 +8,7 @@ pictures on my blog
 
 使用 jsDelivr 加速后的地址：https://cdn.jsdelivr.net/gh/github/explore/topics/github/github.png 访问速度飞起，享受 jsDelivr 提供的全球 CDN 加速。
 
-jsDelivr 还支持加载指定文件版本和自动压缩 JS，具体用法可以参考[官方教程](https://link.ld246.com/forward?goto=https%3A%2F%2Fwww.jsdelivr.com%2Ffeatures%23gh)。
+jsDelivr 还支持加载指定文件版本和自动压缩 JS，具体用法可以参考[官方教程](https://www.jsdelivr.com/features#gh)。
 
 
 如果觉得手动上传 GitHub 图床仓库太麻烦，那就使用这款图床神器吧 https://github.com/Molunerfinn/PicGo
